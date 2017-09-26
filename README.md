@@ -1,8 +1,8 @@
 # PHYS220 CW 5
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Dain and Quinn**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-05-dain-and-quinn.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-05-dain-and-quinn)
 
 ## Specification
 
@@ -15,15 +15,14 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**We learned a lot about matplot, which seems to be a great way to plot and organize data. Combining numpy with data plotting is an efficient tool for displaying data in a reader friendly way.**
 
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
 
 * Content of starter files supplied by the instructor;
-* Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
 Signed,
 
-**YOURNAME**
+**Dain Miller and Quinn Gates**
